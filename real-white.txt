@@ -1,0 +1,19 @@
+1	Argentum Armor
+3	Blade Splicer
+4	Cathedral Sanctifier
+4	Cloudshift
+3	Dust Elemental
+1	Elbrus, the Binding Blade
+2	Emancipation Angel
+3	Kabira Crossroads
+4	Kitchen Finks
+4	Lone Missionary
+2	Loxodon Warhammer
+17	Plains
+3	Quest for the Holy Relic
+4	Soul Warden
+4	Squadron Hawk
+1	Worldslayer
+
+Sideboard: 
+1	Dust Elemental

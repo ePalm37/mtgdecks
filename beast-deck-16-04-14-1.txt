@@ -1,0 +1,23 @@
+1	Asceticism
+4	Axebane Guardian
+4	Clan Defiance
+12	Forest
+1	Garruk, Primal Hunter
+4	Gruul Ragebeast
+4	Hunting Wilds
+1	Kessig Wolf Run
+1	Mistcutter Hydra
+4	Momentous Fall
+1	Mountain
+4	Overgrown Battlement
+4	Pelakka Wurm
+4	Rampant Growth
+4	Rootbound Crag
+4	Thragtusk
+1	Woodfall Primus
+1	Worldspine Wurm
+1	Xenagos, God of Revels
+
+Sideboard: 
+2	Darksteel Colossus
+4	Savage Summoning

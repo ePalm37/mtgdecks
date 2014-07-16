@@ -1,0 +1,15 @@
+3	Azami, Lady of Scrolls
+4	Boomerang
+3	Dissolve
+4	Eye of Nowhere
+3	Frost Titan
+4	Gitaxian Probe
+21	Island
+2	Scourge of Fleets
+1	Tamiyo, the Moon Sage
+4	Temporal Adept
+4	Visions of Beyond
+4	Wipe Away
+3	Æther Adept
+
+
