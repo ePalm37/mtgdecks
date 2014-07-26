@@ -1,9 +1,10 @@
 1	Azami, Lady of Scrolls
 3	Detention Sphere
-1	Dissolve
 3	Drowner of Secrets
 4	Glacial Fortress
+1	Grimoire Thief
 2	Halimar Depths
+2	Harpoon Sniper
 2	Intruder Alarm
 4	Island
 2	Jace, Memory Adept
@@ -14,10 +15,11 @@
 8	Plains
 3	Sejiri Merfolk
 4	Silvergill Adept
-2	Silvergill Douser
 3	Stonybrook Schoolmaster
 2	Summon the School
 1	Sygg, River Guide
 4	Wanderwine Hub
 
-
+Sideboard: 
+1	Dissolve
+2	Silvergill Douser
