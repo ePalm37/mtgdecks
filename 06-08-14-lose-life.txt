@@ -1,0 +1,20 @@
+4	Aphotic Wisps
+4	Bond of Agony
+4	Bump in the Night
+4	Cremate
+4	Death Cultist
+3	Geth's Verdict
+4	Nighthaze
+4	Nip Gwyllion
+2	Plunge into Darkness
+4	Scourgemark
+4	Sign in Blood
+15	Swamp
+2	Tribute to Hunger
+2	Vampire Nighthawk
+
+Sideboard: 
+1	Child of Night
+1	Indulgent Tormentor
+4	Midnight Charm
+4	Taste of Blood
