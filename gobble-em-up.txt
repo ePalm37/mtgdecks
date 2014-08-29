@@ -1,6 +1,7 @@
-2	Coat of Arms
+1	Chandra, Pyromaster
+1	Coat of Arms
 4	Dragon Fodder
-2	Goblin Charbelcher
+1	Goblin Charbelcher
 4	Goblin Chieftain
 4	Goblin Grenade
 4	Goblin Striker
@@ -8,10 +9,10 @@
 4	Krenko's Command
 3	Krenko, Mob Boss
 4	Legion Loyalist
-21	Mountain
+23	Mountain
 1	Ogre Battledriver
 2	Quest for the Goblin Lord
-3	Voracious Dragon
+2	Voracious Dragon
 
 Sideboard: 
 1	Horde of Boggarts

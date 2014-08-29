@@ -1,22 +1,20 @@
-3	Dungrove Elder
+4	Dungrove Elder
 20	Forest
 3	Giant Growth
-1	Might of Oaks
-1	Naturalize
+4	Groundbreaker
 3	Pit Fight
-4	Predator Ooze
+2	Predator Ooze
 3	Prey Upon
 4	Rancor
 3	Scavenging Ooze
 4	Strangleroot Geist
-1	Thrun, the Last Troll
 2	Ulvenwald Tracker
 4	Vines of Vastwood
 4	Young Wolf
 
 Sideboard: 
-3	Beast Within
-3	Gladecover Scout
+3	Dismember
 3	Melira, Sylvok Outcast
-3	Naturalize
+4	Naturalize
+2	Predator Ooze
 3	Tajuru Preserver

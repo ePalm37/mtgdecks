@@ -1,3 +1,4 @@
+1	Ajani, Caller of the Pride
 1	Argentum Armor
 3	Blade Splicer
 4	Cathedral Sanctifier
@@ -8,11 +9,11 @@
 3	Kabira Crossroads
 3	Kitchen Finks
 4	Lone Missionary
-2	Loxodon Warhammer
 17	Plains
 4	Quest for the Holy Relic
 4	Soul Warden
 4	Squadron Hawk
+1	Sword of Fire and Ice
 1	Sword of Light and Shadow
 
 Sideboard: 
