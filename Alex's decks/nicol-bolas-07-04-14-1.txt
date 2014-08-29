@@ -1,0 +1,23 @@
+2	Nicol Bolas, Planeswalker
+1	Anger of the Gods
+4	Augur of Bolas
+2	Blightning
+3	Browbeat
+2	Consuming Vapors
+2	Cruel Ultimatum
+4	Crumbling Necropolis
+2	Despise
+3	Dragonskull Summit
+3	Drowned Catacomb
+4	Island
+1	Kokusho, the Evening Star
+4	Lightning Bolt
+2	Liliana of the Dark Realms
+1	Magma Spray
+4	Mana Leak
+5	Mountain
+2	Slave of Bolas
+5	Swamp
+4	Terminate
+
+

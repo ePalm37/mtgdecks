@@ -1,0 +1,27 @@
+1	Adarkar Valkyrie
+1	Angel of Serenity
+1	Angelic Arbiter
+1	Aurelia, the Warleader
+1	Avacyn, Angel of Hope
+1	Baneslayer Angel
+1	Battlegrace Angel
+2	Chained to the Rocks
+3	Defy Death
+1	Entreat the Angels
+1	Exava, Rakdos Blood Witch
+4	Faithless Looting
+1	Gisela, Blade of Goldnight
+2	Gods Willing
+1	Iona, Shield of Emeria
+2	Journey to Nowhere
+4	Lightning Axe
+9	Mountain
+10	Plains
+1	Reya Dawnbringer
+1	Sigarda, Host of Herons
+1	Temple of Malice
+4	Temple of Silence
+2	Unburial Rites
+4	Wall of Omens
+
+
