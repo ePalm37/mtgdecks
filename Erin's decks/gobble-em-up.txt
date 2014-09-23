@@ -4,11 +4,11 @@
 1	Goblin Charbelcher
 4	Goblin Chieftain
 4	Goblin Grenade
-4	Goblin Striker
 2	Ib Halfheart, Goblin Tactician
 4	Krenko's Command
 3	Krenko, Mob Boss
 4	Legion Loyalist
+4	Mogg War Marshal
 23	Mountain
 1	Ogre Battledriver
 2	Quest for the Goblin Lord

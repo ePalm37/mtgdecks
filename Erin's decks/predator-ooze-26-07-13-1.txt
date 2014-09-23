@@ -1,20 +1,21 @@
+2	Domri Rade
 4	Dungrove Elder
-20	Forest
-3	Giant Growth
-4	Groundbreaker
-3	Pit Fight
-2	Predator Ooze
-3	Prey Upon
+4	Flesh / Blood
+13	Forest
+4	Naturalize
+1	Overgrown Tomb
+4	Predator Ooze
 4	Rancor
 3	Scavenging Ooze
+3	Soul's Fire
+4	Stomping Ground
 4	Strangleroot Geist
 2	Ulvenwald Tracker
+4	Verdant Catacombs
 4	Vines of Vastwood
-4	Young Wolf
 
 Sideboard: 
 3	Dismember
 3	Melira, Sylvok Outcast
-4	Naturalize
-2	Predator Ooze
 3	Tajuru Preserver
+4	Young Wolf

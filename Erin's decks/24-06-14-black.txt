@@ -2,14 +2,15 @@
 2	Consume Spirit
 3	Desecration Demon
 2	Erebos, God of the Dead
+1	Garruk, Apex Predator
 4	Geth's Verdict
 4	Gray Merchant of Asphodel
-1	Indulgent Tormentor
 4	Liliana of the Dark Realms
 4	Mutilate
+1	Overgrown Tomb
 2	Sorin Markov
-20	Swamp
-4	Temple of Deceit
+19	Swamp
+4	Temple of Malady
 1	Temple of Malice
 2	Tribute to Hunger
 3	Underworld Connections
