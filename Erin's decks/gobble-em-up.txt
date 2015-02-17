@@ -16,3 +16,4 @@
 
 Sideboard: 
 1	Horde of Boggarts
+2	Stoke the Flames

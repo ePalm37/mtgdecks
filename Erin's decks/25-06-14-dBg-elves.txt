@@ -1,0 +1,29 @@
+1	Bramblewood Paragon
+3	Echoing Courage
+3	Elvish Archdruid
+1	Elvish Champion
+2	Elvish Lyrist
+1	Elvish Promenade
+2	Elvish Warrior
+2	Essence Warden
+2	Eyeblight's Ending
+17	Forest
+1	Giant Growth
+2	Gilt-Leaf Ambush
+1	Imperious Perfect
+2	Jagged-Scar Archers
+1	Lys Alana Huntmaster
+1	Lys Alana Scarblade
+1	Moonglove Winnower
+1	Nath of the Gilt-Leaf
+1	Nissa Revane
+3	Nissa's Chosen
+1	Overrun
+1	Rhys the Redeemed
+5	Swamp
+1	Talara's Battalion
+1	Timberwatch Elf
+1	Wirewood Guardian
+3	Wirewood Pride
+
+

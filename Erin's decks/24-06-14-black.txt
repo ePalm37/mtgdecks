@@ -18,8 +18,8 @@
 
 Sideboard: 
 1	Altar of Shadows
+4	Cremate
 4	Cruel Edict
 1	Duplicant
-4	Smother
 1	Underworld Connections
 4	Unmake

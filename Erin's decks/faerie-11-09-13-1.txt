@@ -1,20 +1,23 @@
-2	Cloak and Dagger
-1	Dispel
+1	Cloak and Dagger
+3	Countersquall
+3	Dismember
 3	Drowned Catacomb
 3	Faerie Conclave
 1	Island
 2	Mistbind Clique
-4	Nightshade Stinger
-4	Oona's Blackguard
-4	Oona's Prowler
+2	Morsel Theft
+3	Nightshade Stinger
+1	Notorious Throng
+3	Oona's Blackguard
+3	Oona's Prowler
 1	Oona, Queen of the Fae
-3	Peppersmoke
 3	Pestermite
 4	Scion of Oona
 4	Secluded Glen
 4	Spellstutter Sprite
-11	Swamp
+7	Swamp
+4	Underground River
 4	Unmake
-2	Wydwen, the Biting Gale
+1	Wydwen, the Biting Gale
 
 

@@ -1,0 +1,29 @@
+3	Blightning
+1	Blood Cultist
+3	Breath of Malfegor
+1	Crumbling Necropolis
+2	Deathbringer Thoctar
+2	Esper Stormblade
+1	Fire-Field Ogre
+1	Fists of the Demigod
+3	Grixis Grimblade
+2	Igneous Pouncer
+5	Island
+1	Kaervek the Merciless
+1	Lightning Reaver
+1	Manaforge Cinder
+6	Mountain
+1	Rakdos Carnarium
+1	Rakdos Ickspitter
+1	Rupture Spire
+2	Sanity Gnawers
+2	Singe-Mind Ogre
+2	Slave of Bolas
+5	Swamp
+4	Terminate
+4	Terramorphic Expanse
+2	Thraximundar
+2	Vedalken Ghoul
+1	Vivid Crag
+
+

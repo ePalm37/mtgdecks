@@ -1,21 +1,24 @@
-﻿3	Azami, Lady of Scrolls
-4	Boomerang
-4	Eye of Nowhere
+﻿3	AEther Adept
+3	Azami, Lady of Scrolls
+3	Boomerang
+3	Eye of Nowhere
 2	Frost Titan
 4	Gitaxian Probe
-20	Island
+14	Island
+2	Kiora, the Crashing Wave
+2	Prophet of Kruphix
 4	Remand
-2	Scourge of Fleets
 4	Serum Visions
 1	Tamiyo, the Moon Sage
 4	Temple of Mystery
 2	Temporal Adept
-3	Treasure Cruise
-4	Wipe Away
-3	Æther Adept
+2	Treasure Cruise
+3	Wipe Away
+4	Yavimaya Coast
 
 Sideboard: 
-3	Dissolve
-3	Mana Leak
-4	Sage's Dousing
-4	Visions of Beyond
+4	Dissolve
+2	Frost Titan
+4	Mana Leak
+4	Nullify
+2	Scourge of Fleets

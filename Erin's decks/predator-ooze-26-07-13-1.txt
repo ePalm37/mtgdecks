@@ -21,6 +21,6 @@
 Sideboard: 
 2	Beast Within
 4	Naturalize
-4	Skylasher
+3	Skylasher
 3	Tajuru Preserver
-2	Tormod's Crypt
+3	Tormod's Crypt
