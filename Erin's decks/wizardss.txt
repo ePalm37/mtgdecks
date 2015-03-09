@@ -8,11 +8,12 @@
 2	Kiora, the Crashing Wave
 2	Prophet of Kruphix
 4	Remand
+1	Scourge of Fleets
 4	Serum Visions
 1	Tamiyo, the Moon Sage
 4	Temple of Mystery
 2	Temporal Adept
-2	Treasure Cruise
+1	Temporal Trespass
 3	Wipe Away
 4	Yavimaya Coast
 

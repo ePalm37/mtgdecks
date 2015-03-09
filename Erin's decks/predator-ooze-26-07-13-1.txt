@@ -1,9 +1,10 @@
+1	Become Immense
 1	Domri Rade
 3	Dungrove Elder
 4	Flesh / Blood
-10	Forest
+8	Forest
 2	Giant Growth
-2	Hooting Mandrills
+1	Hooting Mandrills
 2	Lightning Bolt
 1	Overgrown Tomb
 4	Predator Ooze
@@ -15,12 +16,15 @@
 1	Thrun, the Last Troll
 2	Ulvenwald Tracker
 4	Vines of Vastwood
+2	Windswept Heath
 4	Wooded Foothills
 3	Young Wolf
 
 Sideboard: 
 2	Beast Within
-4	Naturalize
-3	Skylasher
-3	Tajuru Preserver
-3	Tormod's Crypt
+4	Destructive Revelry
+1	Domri Rade
+3	Noxious Revival
+2	Primal Bellow
+3	Pyroclasm
+2	Ulvenwald Tracker

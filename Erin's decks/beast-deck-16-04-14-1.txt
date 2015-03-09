@@ -10,8 +10,9 @@
 1	Mountain
 4	Overgrown Battlement
 3	Pelakka Wurm
-4	Rampant Growth
+3	Rampant Growth
 4	Rootbound Crag
+1	Ruric Thar, the Unbowed
 1	See the Unwritten
 4	Thragtusk
 1	Woodfall Primus
